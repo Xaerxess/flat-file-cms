@@ -208,6 +208,19 @@ Yellow is for people who make websites. Just files and folders.
 
 **Website:** http://datenstrom.se/yellow/
 
+### Herbie
+
+Herbie is a CMS & Blog system based on simple flat-files.
+
+**Technology:** PHP
+
+**Templating:** Twig
+
+**Formatting:** Markdown, Textile
+
+**Website:** http://www.getherbie.org
+
+**GitHub:** https://github.com/getherbie/
 
 # Contributions
 
