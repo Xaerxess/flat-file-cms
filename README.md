@@ -222,6 +222,20 @@ Herbie is a CMS & Blog system based on simple flat-files.
 
 **GitHub:** https://github.com/getherbie/
 
+### PluXml
+
+Blog ou CMS à l'Xml
+
+**Technology:** PHP
+
+**Templating:** --
+
+**Formatting:** --
+
+**Website:** http://www.pluxml.org
+
+**GitHub:** http://github.com/pluxml
+
 # Contributions
 
 Help grow this list - awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator.
